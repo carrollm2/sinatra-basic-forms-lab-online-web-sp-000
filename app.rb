@@ -6,4 +6,13 @@ class App < Sinatra::Base
 
   end
 
+  post '/create_puppy' do
+
+  end
+
+  post '/display_puppy' do
+
+  end
+
+
 end
